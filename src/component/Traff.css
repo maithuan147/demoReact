@@ -1,0 +1,19 @@
+.circle{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin: 10px auto 0;
+    opacity: 0.2;
+}
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.yellow{
+    background: yellow;
+}
+.active{
+    opacity: 1;
+}

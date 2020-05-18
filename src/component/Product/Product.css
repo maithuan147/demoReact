@@ -1,0 +1,16 @@
+.instocked{
+    color: red;
+}
+.stocked{
+    color: green;
+}
+.Product{
+    border: 2px solid blue;
+    max-width: 800px;
+    margin: 20px auto 10px;
+    padding: 20px;
+    height: 280px;
+}
+.Product table{
+    margin: auto;
+}
